@@ -1,9 +1,7 @@
 # CyberGlove for C++
 
 This package is a simple development library for C++ to use CyberGlove
-on IRIX and WIN32 platforms. . Please chceck [the download
-site](https://sourceforge.net/projects/cgvrdrvcgcc/files/) on
-SourceForge.net to get the package and the samples.
+on IRIX and WIN32 platforms. 
 
 ![CyberTouch](doc/img/vr_cbrtouch.jpg)
 
